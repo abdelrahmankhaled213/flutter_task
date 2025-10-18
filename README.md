@@ -1,16 +1,35 @@
 # flutter_task
 
-A new Flutter project.
+## This project follows the MVVM (Model-View-ViewModel) architecture pattern for a clean and maintainable structure.
 
-## Getting Started
+ Layers
 
-This project is a starting point for a Flutter application.
+1. Data Layer
 
-A few resources to get you started if this is your first Flutter project:
+Contains the DAO, Repository, and Local Data Source.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Uses SQLite for local data storage.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Initially, the app loads data from JSON assets and then converts & stores it into the SQLite database.
+
+2. Presentation Layer
+
+Includes View Widgets (UI screens) and ViewModels for managing state and business logic.
+
+The ViewModel communicates with the Repository to fetch or update data, exposing reactive UI states.
+
+3. Core Layer
+
+Contains reusable and app-wide modules such as:
+
+Error handling
+
+Utilities
+
+Dependency Injection (DI)
+
+Helpers
+
+
+
+<img width="594" height="640" alt="image" src="https://github.com/user-attachments/assets/6a557d79-1f8d-4057-881c-b6a01a2f74d2" />

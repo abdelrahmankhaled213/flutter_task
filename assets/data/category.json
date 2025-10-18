@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "موضة رجلالي",
+    "image": "assets/images/man.png"
+  },
+  {
+    "id": 2,
+    "name": "ساعات",
+    "image": "assets/images/watches.png"
+  },
+  {
+    "id": 3,
+    "name": "موبيلات",
+    "image": "assets/images/phones.png"
+  },
+
+  {
+    "id": 4,
+    "name": " منتجات تجميل",
+    "image": "assets/images/beauty.png"
+  }
+
+]

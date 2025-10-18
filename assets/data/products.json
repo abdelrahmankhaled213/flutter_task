@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": " هودي اسود",
+    "image": "assets/images/hoodyBlack.png",
+    "price": 1000.0,
+    "old_price": 1100.0,
+    "discount": 10,
+    "is_favorite": 0,
+    "is_in_cart": 0,
+    "category": "ملابس"
+
+  },
+
+  {
+    "id": 2,
+  "name": "قميص من صوف م... ",
+  "image": "assets/images/shirtBrown.png",
+  "price": 800.0,
+  "old_price": 1000.0,
+  "discount": 20,
+  "is_favorite": 0,
+  "is_in_cart": 0,
+  "category": "ملابس"
+  },
+
+  {
+    "id": 3,
+  "name": " جزمة رجالي",
+  "image": "assets/images/shoes.png",
+  "price": 1000.0,
+  "old_price": 1100.0,
+  "discount": 10,
+  "is_favorite": 0,
+  "is_in_cart": 0,
+  "category": "ملابس"
+  },
+
+  {
+    "id": 4,
+    "name": " هودي اسود",
+    "image": "assets/images/hoodyBlack.png",
+    "price": 1000.0,
+    "old_price": 1100.0,
+    "discount": 10,
+    "is_favorite": 0,
+    "is_in_cart": 0,
+    "category": "ملابس"
+
+  },
+
+  {
+    "id":5,
+    "name": "قميص من صوف م... ",
+    "image": "assets/images/shirtBrown.png",
+    "price": 800.0,
+    "old_price": 1000.0,
+    "discount": 20,
+    "is_favorite": 0,
+    "is_in_cart": 0,
+    "category": "ملابس"
+  },
+
+  {
+    "id": 6,
+    "name": " جزمة رجالي",
+    "image": "assets/images/shoes.png",
+    "price": 1000.0,
+    "old_price": 1100.0,
+    "discount": 10,
+    "is_favorite": 0,
+    "is_in_cart": 0,
+    "category": "ملابس"
+  }
+
+
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "name": "أساسية",
+    "price": 3000,
+    "duration_days": 30,
+    "tag": "",
+    "features": [
+      {
+
+       "feature": "صلاحية الإعلان 30 يوم",
+        "icon":""
+      }
+    ],
+    "requests": 0,
+    "is_selected": 0
+  },
+
+
+
+  {
+    "id": 2,
+    "name": "إكسترا",
+    "price": 3000,
+    "duration_days": 30,
+    "tag": "",
+    "features": [
+      {
+        "feature": "صلاحية الإعلان 30 يوم",
+        "icon": "assets/images/hours.png"
+
+      },
+
+      {
+        "feature":"رفع لأعلى القائمة كل 3 أيام",
+         "icon": "assets/images/rocket.png"
+
+      },
+
+      {
+     "feature" :  "نشر في متناول صحي (خلال 48 ساعة القادمة)",
+        "icon": "assets/images/pin.png"
+      }
+
+    ],
+    "requests": 7,
+    "is_selected": 1
+  },
+
+  {
+    "id": 3,
+    "name": "بلس",
+    "price": 3000,
+    "duration_days": 30,
+    "tag": "أفضل قيمة مقابل سعر",
+    "features": [
+
+      {
+        "feature": "صلاحية الإعلان 30 يوم",
+        "icon": "assets/images/hours.png"
+      },
+      {
+        "feature": "رفع لأعلى القائمة كل يومين",
+        "icon": "assets/images/rocket.png"
+      },
+      {
+        "feature": "تثبيت في متناول صحي (خلال 48 ساعة القادمة)",
+        "icon": "assets/images/pin.png"
+      },
+      {
+        "feature": "ظهور في كل محافظات مصر",
+        "icon": "assets/images/globe.png"
+      },
+
+      {
+          "feature": "أعلان مميز",
+         "icon": "assets/images/workspace_premium.png"
+      },
+      {
+        "feature": "تثبيت فى مقاول صحى فى الجهراء",
+        "icon": "assets/images/pin.png"
+      },
+      {
+        "feature": "تثبيت في متناول صحي (خلال 48 ساعة القادمة)",
+        "icon": "assets/images/pin.png"
+      }
+
+    ],
+    "requests": 18,
+    "is_selected": 0
+  },
+  {
+    "id": 4,
+    "name": "سوبر",
+    "price": 3000,
+    "duration_days": 30,
+    "tag": "أعلى مميزات",
+    "features": [
+
+      {
+        "feature": "صلاحية الإعلان 30 يوم",
+        "icon": "assets/images/hours.png"
+      },
+      {
+        "feature": "رفع لأعلى القائمة كل يومين",
+        "icon": "assets/images/rocket.png"
+      },
+
+      {
+        "feature": "تثبيت في متناول صحي (خلال 48 ساعة القادمة)",
+        "icon": "assets/images/pin.png"
+      },
+
+      {
+        "feature": "ظهور في كل محافظات مصر",
+        "icon": "assets/images/globe.png"
+      },
+
+
+
+      {
+        "feature": "أعلان مميز",
+        "icon": "assets/images/workspace_premium.png"
+      },
+      {
+        "feature": "تثبيت فى مقاول صحى فى الجهراء",
+        "icon": "assets/images/pin.png"
+      },
+      {
+        "feature": "تثبيت في متناول صحي (خلال 48 ساعة القادمة)",
+        "icon": "assets/images/pin.png"
+      }
+
+
+    ],
+    "requests": 24,
+    "is_selected": 0
+  }
+]
